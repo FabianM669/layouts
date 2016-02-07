@@ -10,7 +10,7 @@
 	height: 100px;
 	width: 900px;
 	margin-bottom: 20px;
-	background: red;
+	background: rgb(230, 46, 37);
 }
 
 .babyb {
@@ -20,7 +20,7 @@
 	width: 560px;
 	padding: 20px;
 	margin-bottom: 20px;
-	background: blue;
+	background: rgb(60, 174, 240);
 }
 
 .inBlueTop {
@@ -32,17 +32,17 @@
 
 .purple {
 	
-	background: purple;
+	background: rgb(118, 103, 174);
 }
 
 .orange {
 
-	background: orange;
+	background: rgb(231, 78, 37);
 }
 
 .green {
 	
-	background: green;
+	background: rgb(74, 175, 57);
 }
 
 .pink {
@@ -51,7 +51,7 @@
 	float: left;
 	height: 340px;
 	width: 560px;
-	background: pink
+	background: rgb(235, 127, 180);
 }
 
 .yellow {
@@ -59,7 +59,7 @@
 	float:right;
 	width: 300px;
 	height: 760px;
-	background: yellow;
+	background: rgb(250, 249, 40);
 }
 
 .red-bottom {
@@ -67,5 +67,5 @@
 	clear: left;
 	width: 900px;
 	height: 100px;
-	background: red;
+	background: rgb(230, 46, 37);
 }

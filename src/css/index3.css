@@ -6,7 +6,7 @@
 .red-top {
 	height: 100px;
 	margin-bottom: 15px;
-	background: red;
+	background: rgb(230, 46, 37);
 }
 .blue {
 	width: 800px;
@@ -14,20 +14,20 @@
 	float: left;
 	padding: 15px;
 	margin-bottom: 20px;
-	background: blue;
+	background: rgb(60, 174, 240);
 }
 .orange {
 	width: 407.5px;
 	height: 648.5px;
 	float: left;
-	background: orange;
+	background: rgb(231, 78, 37);
 }
 .yellow {
 	width: 340px;
 	height: 648.50px;
 	padding: 15px;
 	float: left;
-	background: yellow;
+	background: rgb(250, 249, 40);
 }
 .inYellow{
 	width: 170px;
@@ -35,16 +35,16 @@
 	float: left;
 }
 .purple {
-	background: purple;
+	background: rgb(118, 103, 174);
 }
 .green {
-	background: green;
+	background: rgb(74, 175, 57);
 }
 .pink {
 	height: 296.5px;
 	clear: both;
 	padding: 15px;
-	background: pink;
+	background: rgb(235, 127, 180);
 	margin-bottom: 20px;
 }
 .inPink{
@@ -53,7 +53,7 @@
 	float: left;
 }
 .purpleInPink {
-	background: purple;
+	background: rgb(118, 103, 174);
 }
 .greenInPink {
 	background: green;
@@ -61,5 +61,5 @@
 .red-bottom {
 	clear: both;
 	height: 100px;
-	background: red;
+	background: rgb(230, 46, 37);
 }

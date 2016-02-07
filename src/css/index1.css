@@ -5,7 +5,7 @@
 }
 .red-top {
 	
-	background: red;
+	background: rgb(230, 46, 37);
 	height: 125px;
 	margin-bottom: 25px;
 }
@@ -21,14 +21,14 @@
 	float: left;
 	width: 300px;
 	height: 600px;
-	background: green;
+	background: rgb(74, 175, 57);
 }
 .yellow {
 
 	float: left;
 	width: 300px;
 	height: 600px;
-	background: yellow;
+	background: rgb(250, 249, 40);
 }
 .red-bottom {
 
@@ -36,5 +36,5 @@
 	width: 900px;
 	height: 125px;
 	margin-top: 25px;
-	background: red;
+	background: rgb(230, 46, 37);
 }
