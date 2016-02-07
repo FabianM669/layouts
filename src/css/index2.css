@@ -1,0 +1,71 @@
+.container {
+
+	height: 1000px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.red-top {
+
+	height: 100px;
+	width: 900px;
+	margin-bottom: 20px;
+	background: red;
+}
+
+.babyb {
+
+	float: left;
+	height: 720px;
+	width: 560px;
+	padding: 20px;
+	margin-bottom: 20px;
+	background: blue;
+}
+
+.inBlueTop {
+
+	float: left;
+	height: 360px;
+	width: 186.67px;
+}
+
+.purple {
+	
+	background: purple;
+}
+
+.orange {
+
+	background: orange;
+}
+
+.green {
+	
+	background: green;
+}
+
+.pink {
+
+	margin-top: 20px;
+	float: left;
+	height: 340px;
+	width: 560px;
+	background: pink
+}
+
+.yellow {
+
+	float:right;
+	width: 300px;
+	height: 760px;
+	background: yellow;
+}
+
+.red-bottom {
+
+	clear: left;
+	width: 900px;
+	height: 100px;
+	background: red;
+}
