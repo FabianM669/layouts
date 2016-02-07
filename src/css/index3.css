@@ -1,0 +1,65 @@
+.container {
+	width: 1200px;
+	height: 1200px;
+	margin: 0 auto;
+}
+.red-top {
+	height: 100px;
+	margin-bottom: 15px;
+	background: red;
+}
+.blue {
+	width: 800px;
+	height: 648.50px;
+	float: left;
+	padding: 15px;
+	margin-bottom: 20px;
+	background: blue;
+}
+.orange {
+	width: 407.5px;
+	height: 648.5px;
+	float: left;
+	background: orange;
+}
+.yellow {
+	width: 340px;
+	height: 648.50px;
+	padding: 15px;
+	float: left;
+	background: yellow;
+}
+.inYellow{
+	width: 170px;
+	height: 648.75px;
+	float: left;
+}
+.purple {
+	background: purple;
+}
+.green {
+	background: green;
+}
+.pink {
+	height: 296.5px;
+	clear: both;
+	padding: 15px;
+	background: pink;
+	margin-bottom: 20px;
+}
+.inPink{
+	height:296.50;
+	width: 585;
+	float: left;
+}
+.purpleInPink {
+	background: purple;
+}
+.greenInPink {
+	background: green;
+}
+.red-bottom {
+	clear: both;
+	height: 100px;
+	background: red;
+}
